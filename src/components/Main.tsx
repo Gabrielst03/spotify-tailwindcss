@@ -104,7 +104,7 @@ export default function Main() {
                     <a href="" className="flex flex-col items-center gap-2 p-2 h-80 bg-white/5 transition-colors hover:bg-white/10 rounded-lg">
                         <Image src={'/rap.jpeg'} width={215} height={215} alt={'Album'} className='rounded-lg' />
                         <strong>Mix Rap Nacional</strong>
-                        <p className='text-gray-500 text-sm text-center'>Racionais MC's, Emicida, Sabotage e mais...</p>
+                        <p className='text-gray-500 text-sm text-center'>Racionais MCs, Emicida, Sabotage e mais...</p>
                     </a>
 
                     <a href="" className="flex flex-col items-center gap-2 p-2 h-80 bg-white/5 transition-colors hover:bg-white/10 rounded-lg">
